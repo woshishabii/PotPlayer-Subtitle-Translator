@@ -1,4 +1,4 @@
-# Simple Subtitle Translator using Model from HuggingFace
+# Simple Subtitle Translator using Machine Learning Model from HuggingFace
 
 ## Setup
 

@@ -18,6 +18,6 @@ python -m flask run
 
 Enjoy it XD
 
-Thx:
+# Thx
 
 Helsinki-NLP for their models
